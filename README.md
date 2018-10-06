@@ -147,3 +147,39 @@ public class ArkademyTest {
     }
 
 }
+/*
+run:
+SOAL NO 1
+
+1 2 3 4 5 6 7 8 9 
+2 3 4 5 6 7 8 9 
+3 4 5 6 7 8 9 
+4 5 6 7 8 9 
+5 6 7 8 9 
+6 7 8 9 
+7 8 9 
+8 9 
+9 
+
+SOAL NO 2
+
+0 1 1 2 3 5 8 13 21 34
+
+SOAL NO 3
+
+selisih hari yaitu : 27 hari
+
+SOAL NO 4
+
+angka '3' dalam 100 angka ada sebanyak = 20 kali
+
+SOAL NO 5
+
+huruf 'a' ada sebanyak = 2
+
+SOAL NO 6
+
+huruf 'm' ada diposisi = 13
+
+BUILD SUCCESSFUL (total time: 0 seconds)
+*/
